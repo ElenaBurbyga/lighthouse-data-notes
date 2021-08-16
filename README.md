@@ -1,2 +1,3 @@
-#Elena's notes
-
+# Elena's notes
+## Summary
+This repository contains all of the notes taken by [Your Name] for the Lighthouse Labs Data Science Bootcamp.
